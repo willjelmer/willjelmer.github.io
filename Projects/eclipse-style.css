@@ -1,0 +1,45 @@
+/* Basic style using Inter font and clean layout */
+body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f9fc;
+    color: #222;
+  }
+  
+  header {
+    background-color: #1e2a38;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+  
+  section {
+    margin-bottom: 2.5rem;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  h2 {
+    font-size: 1.75rem;
+    margin-top: 1.5rem;
+    color: #1e2a38;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #e1e6ed;
+    color: #555;
+  }
+  
